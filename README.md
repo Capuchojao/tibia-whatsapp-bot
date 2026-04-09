@@ -61,4 +61,4 @@ Este projeto é um **Bot para WhatsApp** desenvolvido em Node.js com a bibliotec
 
 ## 📌 Autor
 
-Desenvolvido para gerenciar caçadas intensas de forma profissional 🧙‍♂️. Sinta-se livre para entrar em contato ou usar o código como base para automatizar seus próprios chats!
+Desenvolvido para gerenciar caçadas intensas de forma profissional 🧙‍♂️.
